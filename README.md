@@ -23,6 +23,22 @@ Los archivos están optimizados para:
 ## ✒️ Identidad Visual
 Nuestra marca se caracteriza por un estilo retro/pixel-art, utilizando una foca como emblema distintivo. Los colores principales se encuentran representados en los archivos `.svg` de este repositorio.
 
+### 🖼️ Galería de Carteles
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="Carteles/Alcohol_Isopropilico.png" width="200"><br><sub>Alcohol Isopropílico</sub></td>
+      <td align="center"><img src="Carteles/Aire_Comprimido.png" width="200"><br><sub>Aire Comprimido</sub></td>
+      <td align="center"><img src="Carteles/Pasta_Termica.png" width="200"><br><sub>Pasta Térmica</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="Carteles/Limpiador_Pantallas.png" width="200"><br><sub>Limpiador de Pantallas</sub></td>
+      <td align="center"><img src="Carteles/Limpiador_Vidrios.png" width="200"><br><sub>Limpiador de Vidrios</sub></td>
+      <td align="center">---</td>
+    </tr>
+  </table>
+</div>
+
 ---
 <div align="center">
   <p>Mantenido por <b>Baikal Hardware</b> y <b>MasitasIA</b></p>
