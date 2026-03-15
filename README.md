@@ -1,7 +1,6 @@
 <div align="center">
-  | <img src="Logos/LogoSinNombre.png" width="200" style="border-radius:50%"> |
-  | :---: |
-  | **Baikal Hardware - Repositorio de Recursos Visuales** |
+  <img src="Logos/LogoSinNombre.png" width="200" height="200" style="border-radius: 50%;" alt="Baikal Hardware Logo">
+  <h1>Baikal Hardware - Repositorio de Recursos Visuales</h1>
   <p>Recopilación oficial de logos, cartelería y assets gráficos de Baikal Hardware.</p>
 </div>
 
